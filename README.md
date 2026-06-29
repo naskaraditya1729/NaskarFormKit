@@ -65,8 +65,8 @@ Frontend (React + Tailwind)
 **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/intellisurvey.git
-cd intellisurvey
+git clone https://github.com/YOUR_USERNAME/NaskarFormKit.git
+cd NaskarFormKit
 ```
 
 **2. Install Dependencies**
@@ -99,9 +99,9 @@ Open your browser and navigate to `http://localhost:5173`
 
 ---
 
-## Why IntelliSurvey?
+## Why NaskarFormKit?
 
-Traditional survey tools such as Google Forms or Typeform are limited to static text input and require manual data review. IntelliSurvey transforms the survey experience by leveraging Chrome's built-in AI to:
+Traditional survey tools such as Google Forms or Typeform are limited to static text input and require manual data review. NaskarFormKit transforms the survey experience by leveraging Chrome's built-in AI to:
 
 - **Streamline survey creation** through automated question generation
 - **Enable natural interaction** through voice and image inputs
@@ -118,7 +118,7 @@ A comprehensive demo video (2-3 minutes) and screenshots will be added following
 
 ## Contributing
 
-IntelliSurvey welcomes contributions from the community. To contribute:
+NaskarFormKit welcomes contributions from the community. To contribute:
 
 1. **Fork the repository** to your GitHub account
 2. **Create a feature branch**
@@ -159,7 +159,7 @@ Built for the Chrome Built-in AI Challenge 2025
 
 - Google Chrome team for providing the Built-in AI APIs
 - OpenAI and Hugging Face for inspiration and guidance
-- All contributors who have helped shape and improve IntelliSurvey
+- All contributors who have helped shape and improve NaskarFormKit
 
 ---
 
