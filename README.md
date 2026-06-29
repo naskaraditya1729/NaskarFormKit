@@ -1,4 +1,4 @@
-# IntelliSurvey
+# NaskarFormKit
 
 **AI-powered multimodal survey platform built for the Chrome Built-in AI Challenge 2025**
 
@@ -6,7 +6,7 @@
 
 ## Overview
 
-IntelliSurvey is a web-based AI-powered survey platform that enables users to create, host, and analyze surveys using text, voice, images, and uploaded files—powered by Chrome's built-in AI capabilities.
+NaskarFormKit is a web-based AI-powered survey platform that enables users to create, host, and analyze surveys using text, voice, images, and uploaded files—powered by Chrome's built-in AI capabilities.
 
 The platform is designed to make survey creation and analysis smarter, faster, and more inclusive, allowing both creators and respondents to interact naturally through typing, speaking, or uploading media.
 
@@ -149,7 +149,7 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 **Aditya Naskar**  
 Lead Developer & Founder  
-IntelliSurvey
+NaskarFormKit
 
 Built for the Chrome Built-in AI Challenge 2025
 
