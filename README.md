@@ -163,4 +163,4 @@ Built for the Chrome Built-in AI Challenge 2025
 
 ---
 
-> *"AI should empower humans to understand other humans—IntelliSurvey makes that happen."*
+> *"AI should empower humans to understand other humans—NaskarFormKit makes that happen."*
